@@ -1,0 +1,10 @@
+insert into tb_client(name, cpf, income, birth_date, children) values ('Márcio', '123.456.789-0', 3000, '1998-07-10', 2);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Cláudia', '123.456.789-0', 1000, '1993-02-16', 0);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Roberto', '123.456.789-0', 6000, '1999-03-11', 4);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Rafael', '123.456.789-0', 1200, '1995-08-12', 1);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Everson', '123.456.789-0', 7300, '1998-02-12', 4);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Vinicius', '123.456.789-0', 2000, '1998-03-16', 0);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Matheus', '123.456.789-0', 4000, '1998-01-11', 1);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Gabriel', '123.456.789-0', 7000, '1998-05-15', 3);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Ana', '123.456.789-0', 3500, '1992-07-10', 2);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Bruna', '123.456.789-0', 5000, '2000-01-15', 1);
